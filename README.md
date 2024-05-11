@@ -1,4 +1,4 @@
-# Backend Developer Interview Project
+# Backend service to provide histogram data from a CSV file
 
 ## Introduction
 This project is a backend API service built for providing histogram data from a CSV file. It offers endpoints to retrieve histogram data for each column in the CSV file.

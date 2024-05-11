@@ -45,9 +45,9 @@ Testing
     coming soon...
 
 Built With
-    - Node.js
-    - Express.js
-    - Docker
+- Node.js
+- Express.js
+- Docker
 
 
 

@@ -38,8 +38,8 @@ Endpoints
     - column: Name of the column for which histogram data is requested.
     - type: Type of report (html, bar, json)
 - Example:
-    - `http://localhost:3000/histogram/Commodity/html`
-    - `http://localhost:3000/histogram/CommodityType/bar`
+    - http://localhost:3000/histogram/Commodity/html
+    - http://localhost:3000/histogram/CommodityType/bar
 
 Testing
     coming soon...

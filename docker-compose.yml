@@ -1,0 +1,9 @@
+# docker-compose.yml
+services:
+  app:
+    container_name: projection_js
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000

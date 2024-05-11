@@ -1,0 +1,17 @@
+{
+    "name": "histogram-api",
+    "version": "1.0.0",
+    "description": "API service for generating histograms from CSV data",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "chart.js": "^4.4.2",
+        "csv-parser": "^3.0.0",
+        "express": "^4.17.1",
+        "http-server": "^14.1.1"
+    },
+    "author": "",
+    "license": "ISC"
+}

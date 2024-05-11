@@ -35,8 +35,8 @@ Endpoints
 - Method: GET
 - Description: Retrieves histogram data for the specified column in the Projection2021.csv.
 - Parameters:
-    column: Name of the column for which histogram data is requested.
-    type: Type of report (html, bar, json)
+    - column: Name of the column for which histogram data is requested.
+    - type: Type of report (html, bar, json)
 - Example:
     `http://localhost:3000/histogram/Commodity/html`
     `http://localhost:3000/histogram/CommodityType/bar`

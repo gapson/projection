@@ -10,8 +10,8 @@ This project is a backend API service built for providing histogram data from a 
 ## Installation
 1. **Clone the repository:**
     ```
-    git clone https://github.com/your/repository.git
-    cd repository-name
+    git https://github.com/gapson/projection.git
+    cd projection
     ```
     
 2. **If you want to run the project localy:**
